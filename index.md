@@ -2,4 +2,5 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hello, I'm glad you are here. I plan to talk about Music.
+Music is a universal language. It's a form of communication that transcends space and time, touching the hearts of people worldwide...
